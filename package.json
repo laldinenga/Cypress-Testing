@@ -1,0 +1,16 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "laldinenga_assignment",
+  "main": "index.js",
+  "scripts": {
+    "cypress-verify": "cypress verify",
+    "cypress-run": "cypress run",
+    "cypress-open": "cypress open"
+  },
+  "author": "laldinenga",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.9.0"
+  }
+}
